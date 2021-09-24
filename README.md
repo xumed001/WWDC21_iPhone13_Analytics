@@ -1,4 +1,4 @@
-# WWDC21 iPhone13 Analytics
+# WWDC21 iPhone13 Analysis
 ## Project Summary
 This analysis looks at Apple’s annual September keynote event where they usually announce new apple products, mainly the new iPhone and compares the keynote data to people’s live reaction data from twitter.
 ## Data mining 
