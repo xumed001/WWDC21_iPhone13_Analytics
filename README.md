@@ -15,7 +15,7 @@ The keynote `cc` data was cut to just the part of the event where they start tal
 For feature engineering part a little bit of `regular expression` was used to filter out all the URLS, twitter handlers and hashtags from the tweet body. Then `vaderSentiment` was applied to the tweet body creating there more columns that rated each tweet and gave a score representing how `positive`, `neutral` or `negative` the tweets were. After that a function was applied to the tweets that basically grouped and counted positive and negative tweets. 
 
 ## Analysis results 
-[Click here!](Analysis_illustration_1.2.pdf)
+- [Click here!](Analysis_illustration_1.2.pdf)
 
 ## Tools/Software:
 - Canva
