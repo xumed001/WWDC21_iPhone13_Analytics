@@ -4,7 +4,7 @@
 This analysis looks at Apple’s annual September keynote event where they usually announce new apple products, mainly the new iPhone and compares the keynote data to people’s live reaction data from twitter.
 
 ### tldr
-- [here](Analysis_illustration_1.2.pdf)
+- [Click here](Analysis_illustration_1.2.pdf)
 
 ## Data mining 
 Apple’s keynote data was gathered through their event’s livestream `closed captions` and was saved into a txt file. For the twitter data a python library called `twint` was utilized to pull the raw data and save it as a csv file.
@@ -15,7 +15,7 @@ The keynote `cc` data was cut to just the part of the event where they start tal
 For feature engineering part a little bit of `regular expression` was used to filter out all the URLS, twitter handlers and hashtags from the tweet body. Then `vaderSentiment` was applied to the tweet body creating there more columns that rated each tweet and gave a score representing how `positive`, `neutral` or `negative` the tweets were. After that a function was applied to the tweets that basically grouped and counted positive and negative tweets. 
 
 ## Analysis results 
-[Click Here!](Analysis_illustration_1.2.pdf)
+[Click here!](Analysis_illustration_1.2.pdf)
 
 ## Tools/Software:
 - Canva
