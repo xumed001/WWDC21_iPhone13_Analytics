@@ -10,10 +10,10 @@ For feature engineering part a little bit of `regular expression` was used to fi
 ## Analysis results 
 [Click Here!](Analysis_illustration_1.2.pdf)
 ## Tools/Software:
-Canva
-VS Code
-Python:
--	pandas
--	twint
--	wordcloud
--	vaderSentiment
+- Canva
+- VS Code
+- Python:
+  -	pandas
+  -	twint
+  -	wordcloud
+  -	vaderSentiment
