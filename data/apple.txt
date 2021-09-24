@@ -1,0 +1,1169 @@
+
+
+Now let's talk about iPhone.
+
+iPhone has forever changed the world.
+
+Every single day people rely on iPhone, from their most demanding tasks,
+
+to capturing the moments of their lives, streaming their favorite TV shows,
+
+playing their favorite games,
+
+staying up-to-date with the news of the world,
+
+and connecting with friends and loved ones.
+
+This is what drives us to create the best iPhone possible,
+
+to create an experience unlike any other with legendary ease of use,
+
+beautiful and durable designs,
+
+with water resistance and great battery life,
+
+with industry leading performance,
+
+and the world's most advanced camera systems,
+
+and with privacy built in.
+
+People love iPhone.
+
+And we keep making iPhone better,
+
+more powerful, more capable, and even more fun to use.
+
+Today we are thrilled to introduce our next generation of iPhone.
+
+Here it is.
+
+This is iPhone 13.
+
+To tell you more, here's Kaiann.
+
+Kaiann: Let's take a closer look at iPhone 13 starting with design.
+
+It has the sleek, flat-edged design that people love.
+
+It's also incredibly durable with our exclusive Ceramic Shield front,
+
+tougher than any smartphone glass,
+
+and has industry leading IP68 water resistance.
+
+iPhone 13 has a new look for the advanced dual-camera system
+
+with the lenses arranged diagonally.
+
+The aerospace-grade aluminum frame is beautifully formed
+
+and really shows off five new colors:
+
+an all-new Pink, Blue, Midnight, Starlight, and (PRODUCT)RED.
+
+On the front, the TrueDepth camera system has been reengineered
+
+to provide more display area.
+
+Everything inside, including Face ID,
+
+the most secure facial authentication in a smartphone,
+
+fits into a space that's 20% smaller.
+
+iPhone 13 is designed with the environment in mind,
+
+using many recycled materials.
+
+For example, these antenna lines use upcycled plastic water bottles,
+
+an industry first.
+
+Under the hood, iPhone 13 has been completely re-architected
+
+to make room for new technologies and a bigger battery.
+
+This beautiful design is the same across two sizes,
+
+iPhone 13 and iPhone 13 mini.
+
+Both feature a more advanced Super Retina XDR display.
+
+It's 28% brighter, up to 800 nits,
+
+brilliant for viewing even when you're outside.
+
+For HDR content like photos and videos,
+
+the peak brightness is higher at 1200 nits.
+
+And you can enjoy the pixel-precision brightness for longer
+
+thanks to the display's improved power efficiency.
+
+You'll see true blacks in games, photos, and videos
+
+with the incredible contrast ratio of our OLED display.
+
+This new brighter Super Retina XDR display
+
+delivers an immersive viewing experience
+
+with support for Dolby Vision, HDR10, and HLG.
+
+Now let's talk about the chip
+
+that powers iPhone 13 and iPhone 13 mini.
+
+Frankly, the competition is still playing catch-up to our chips,
+
+not just from last year, but even from two years ago.
+
+And today, we're extending our lead with A15 Bionic.
+
+Here's Hope to tell you all about it.
+
+Hope: Our silicon is the engine of iPhone.
+
+With A15 Bionic, we have innovations across the entire system
+
+to deliver more performance and power efficiency,
+
+At its foundation, A15 uses five nanometer technology,
+
+which enables us to include nearly 15 billion transistors.
+
+You'll absolutely fly through demanding workloads smoothly and efficiently
+
+thanks to a powerful new 6-core CPU
+
+with two high-performance and four high-efficiency cores.
+
+We've increased the performance
+
+of our CPU's dedicated machine learning accelerators
+
+that power experiences such as advanced text-to-speech in Siri
+
+and on-device processing of directions in Maps.
+
+It's the fastest CPU in any smartphone,
+
+up to 50% faster than the leading competition,
+
+For graphics-intensive tasks, like advanced games,
+
+A15 Bionic features our latest 4-core GPU,
+
+enabling more eye-catching visuals and lighting effects.
+
+It delivers up to 30% faster graphics versus the leading competition.
+
+And we continue to push the limits of machine learning
+
+with the new 16-core Neural Engine that is perfect for ML tasks.
+
+It's capable of an astounding 15.8 trillion operations per second.
+
+We design our Neural Engine together
+
+with our camera hardware and software teams.
+
+This unique vision and integration brings to life leading capabilities
+
+in video and image processing.
+
+This means faster ML computations for experiences
+
+like Live Text with iOS 15.
+
+Point your camera at text on the go and instantly take action,
+
+like buying tickets or getting directions.
+
+The ML advancements across our entire chip will empower developers
+
+to do even more in their apps, like SwingVision,
+
+which can smoothly run powerful CoreML and AR models
+
+on A15 Bionic for real-time shot tracking,
+
+video analysis, and remote coaching.
+
+PeakVisor helps you navigate the outdoors to identify mountains
+
+and explore detail-rich 3D maps while hiking.
+
+And Seek uses a machine learning model trained by over 20 million photos
+
+to instantly identify plants and animals around you,
+
+and all the processing is done on-device.
+
+A15 is a powerhouse.
+
+In addition to core performance improvements,
+
+there's a new display engine,
+
+new video encoder and decoder,
+
+and twice the system cache.
+
+There's nothing in the world like this chip.
+
+Back to Kaiann.
+
+Kaiann: A15 Bionic also powers the amazing camera system on iPhone 13.
+
+It combines our powerful cameras,
+
+next-generation image signal processor,
+
+and computational photography to create our most advanced dual-camera system.
+
+The all-new Wide camera lets you take stunning shots in any situation,
+
+like this photo full of color and texture.
+
+It gathers 47% more light for less noise and brighter results
+
+in your photos and videos.
+
+This is enabled by larger, 1.7-micron pixels
+
+that capture more light and a wide f/1.6 aperture.
+
+It's the biggest sensor we've ever put in our dual-camera system.
+
+iPhone 12 Pro Max introduced an amazing advanced technology,
+
+sensor-shift optical image stabilization.
+
+And incredibly, we are bringing this to iPhone 13 and iPhone 13 mini.
+
+Here's a low-light photo from the new Wide camera with sensor-shift OIS.
+
+The larger sensor captures nearly 50% more light.
+
+Hard to believe this photo was taken in a dark room
+
+with just a little light coming through a window.
+
+Night mode shots are even more impressive.
+
+Capture times are shorter, too, for sharper images of your subjects
+
+and fine details.
+
+We've also custom-designed a new Ultra Wide camera
+
+that will reveal more of the dark areas with less noise,
+
+like you see here in the walls and ceilings.
+
+Capturing fun, creative perspectives is easy with the Ultra Wide
+
+and now it's even better on iPhone 13.
+
+Now let's switch to video.
+
+iPhone already has the highest quality video in a smartphone.
+
+And iPhone 13 brings a brand-new feature,
+
+Cinematic mode.
+
+Now over to Johnnie to tell you more.
+
+Johnnie: Filmmakers have used focus changes
+
+to tell engaging stories for decades.
+
+It's a technique called rack focus
+
+that requires skill, planning, and creative vision.
+
+You've seen rack focus used in all your favorite films.
+
+It brings a whole new dimension to storytelling.
+
+Well, we're bringing this capability to iPhone
+
+in a simple and intuitive way,
+
+so you can capture cinema-style moments,
+
+even if you aren't a professional filmmaker.
+
+And guess what, the movie clip you just saw
+
+was shot on iPhone.
+
+And we'd love to show you more.
+
+It's remarkable and so easy to use.
+
+Just start recording,
+
+and Cinematic mode will hold focus on the subject
+
+even when they're moving.
+
+Focus transitions happen automatically in real time,
+
+like from one subject to another.
+
+Cinematic mode anticipates when a subject is about to enter the frame,
+
+and intelligently racks focus to them when they do,
+
+And when a subject gazes away from the camera,
+
+iPhone itself changes focus and then back.
+
+To create these automatic focus changes,
+
+we extensively studied the art of cinematography
+
+and the creative choices directors of photography make
+
+to guide the viewers' attention.
+
+We combined these learnings
+
+with computational algorithms
+
+so you can effortlessly create cinema-grade videos.
+
+For more creative control, you can tap to shift focus at any time.
+
+Tap again to lock and track focus on the subject.
+
+Cinematic mode shoots in Dolby Vision HDR.
+
+This is enabled by our Apple-custom sensor
+
+and the incredible power of A15 Bionic,
+
+which grades each frame in Dolby Vision
+
+live while you are recording.
+
+And that's Cinematic mode.
+
+Now back to Kaiann.
+
+Kaiann: iPhone 13 and iPhone 13 mini
+
+have advanced new camera systems
+
+with sensor-shift OIS,
+
+fantastic low-light performance,
+
+and Cinematic mode also on the front TrueDepth camera.
+
+Next, let's turn to 5G.
+
+Millions and millions of iPhone users are already experiencing 5G every day
+
+for super fast downloads and uploads, lower latency,
+
+and new experiences on the go.
+
+And on iPhone 13, we've innovated further
+
+on custom-designed antennas and radio components
+
+that let us add more bands
+
+so iPhone 13 works on 5G with the latest speeds and in more places.
+
+The world is moving quickly to 5G.
+
+We're collaborating with more carrier partners
+
+for the best call quality, performance, coverage, and battery life.
+
+By the end of the year, we will double 5G support
+
+to over 200 carriers in 60 countries and regions.
+
+That means you can benefit from 5G in more places than ever
+
+to binge watch your favorite shows together using SharePlay on Apple TV+
+
+and even more streaming partners for video and music.
+
+You can be ultra competitive in multiplayer games,
+
+share surprise greetings from a celebrity in high res over Cameo,
+
+or take the sound at any live event to a whole new level with Mix Halo.
+
+5G is taking over,
+
+and iPhone 13 is ready with the best 5G experience.
+
+Now let's talk about battery life,
+
+which is really important to our users.
+
+iPhone 13 has a faster chip,
+
+faster 5G speeds, a brighter OLED display,
+
+and the most advanced dual-camera system ever in an iPhone.
+
+And with all these new capabilities,
+
+the iPhone 13 lineup has better battery life.
+
+On iPhone 13 mini, most users will experience
+
+an hour and a half hour longer in their day than with iPhone 12 mini.
+
+And on iPhone 13, two and a half hours longer
+
+than iPhone 12 for incredible all-day battery life.
+
+This amazing battery life is delivered by A15 Bionic,
+
+more power-efficient components, a bigger battery,
+
+and power optimizations from our deep hardware and software integration,
+
+like Smart Data Mode, which intelligently conserves battery life
+
+by automatically shifting your iPhone to LTE when 5G speeds aren't needed.
+
+We also look at every opportunity to improve privacy.
+
+With iPhone and iOS, privacy is built in from the beginning.
+
+With iOS 15, Siri uses on-device speech recognition,
+
+meaning your Siri audio requests do not leave your iPhone by default.
+
+Intelligent tracking prevention now prevents trackers from profiling you
+
+using your IP address.
+
+And mail privacy protection hides your IP address
+
+and prevents senders from learning about your mail activity.
+
+Another huge benefit of owning an iPhone is the vast ecosystem
+
+that extends what iPhone can do.
+
+That includes MagSafe, which we introduced last fall
+
+and has been a hit.
+
+From multi-chargers and swiveling charger stands
+
+to cases, wallets, tripods, and car mounts,
+
+along with our own accessories
+
+for charging, like the MagSafe Battery Pack.
+
+For iPhone 13, we have leather, silicone, and clear cases
+
+in stunning new colors
+
+and engineered to work perfectly with MagSafe.
+
+We also have a new MagSafe Leather Wallet
+
+that supports Find My.
+
+You can now be notified of the last known location
+
+where your wallet was separated from your iPhone.
+
+iPhone 13 is loaded with new technologies,
+
+including Cinematic mode,
+
+A15 Bionic that's faster than the competition,
+
+our most advanced dual-camera system with sensor-shift OIS,
+
+longer battery life, 5G, and so much more.
+
+With all this, iPhone 13 still starts
+
+at just $699.
+
+We also have some fantastic offers from Apple and our partners,
+
+including up to $700 off in the U.S.
+
+when you trade in a qualifying iPhone.
+
+And we're increasing the starting capacity to 128 gigabytes
+
+for double the storage and adding a new 512-gigabyte option.
+
+iPhone 13 is impressively powerful.
+
+Let's see it in action.
+
+Now back to Tim.
+
+Tim: We are so excited for iPhone 13.
+
+With all of its power and capability,
+
+we can't wait to see what our customers will do with it,
+
+and we're not done yet.
+
+Our Pro lineup pushes the limits with our most advanced technologies
+
+for our users who want the very best iPhone,
+
+best-in-class performance, best-in-class camera experience,
+
+great durability, larger displays,
+
+and incredible design.
+
+This year, we build on that in a major way.
+
+Let's take a look at our most Pro iPhone ever.
+
+This is iPhone 13 Pro.
+
+To tell you more, here's Joz.
+
+[upbeat music]
+
+Joz: iPhone 13 Pro features our most pro design
+
+with exceptional materials,
+
+like these surgical-grade stainless steel bands.
+
+Each band goes through a physical vapor deposition process
+
+to create an Apple-custom finish that is so elegant,
+
+yet incredibly resistant to abrasion and corrosion.
+
+iPhone 13 Pro comes in four striking finishes,
+
+a rich, deep graphite, gorgeous gold,
+
+beautiful silver, and this all-new sierra blue.
+
+This sierra blue required an entirely new process,
+
+using multiple layers of nanometer-scale metallic ceramics applied
+
+across the surface for a stunning and very durable finish.
+
+iPhone 13 Pro has a newly designed front
+
+with a TrueDepth camera system that's 20% smaller.
+
+On the back, you see our incredible new camera system
+
+with beautiful stainless steel trim
+
+that perfectly surrounds the sapphire crystal lenses
+
+of each of our three new cameras,
+
+and a beautiful textured matte glass that feels great
+
+and shows off the stunning color.
+
+On the front, it has our incredible Ceramic Shield
+
+that is tougher than any smartphone glass.
+
+It also has industry-leading IP68 water resistance.
+
+On the inside, it's been completely redesigned
+
+to support our latest pro technologies,
+
+including the all-new camera system,
+
+incredible new display, and a bigger battery.
+
+iPhone 13 Pro also supports MagSafe and the ever-expanding ecosystem
+
+of really cool, new accessories.
+
+And it's joined by the larger iPhone 13 Pro Max.
+
+Now let's talk about performance and the powerful new A15 Bionic.
+
+As you heard from Hope, A15 Bionic features a CPU
+
+with two new high-performance cores and four new high-efficiency cores,
+
+and a faster Neural Engine, as well as our new ISP,
+
+which provides improved noise reduction and tone mapping.
+
+And for these Pro models,
+
+A15 Bionic includes our most powerful graphics ever
+
+with a new 5-core GPU.
+
+It provides up to 50% faster graphics performance than the leading competition.
+
+In fact, iPhone 13 Pro has the fastest graphics performance
+
+in any smartphone ever,
+
+great for high-performance gaming
+
+and our most powerful camera features,
+
+like Apple ProRAW and 4K Dolby Vision video.
+
+And the A15 Bionic chip's new 5-core GPU and custom display engine combine
+
+with an amazing new display that takes the iPhone experience even further.
+
+This year, we're proud to introduce an entirely new Super Retina XDR display.
+
+With a new, more efficient OLED panel,
+
+the display now supports up to 1000 nits peak outdoor brightness.
+
+That's 25% higher than last year.
+
+And for the first time, we're bringing ProMotion to iPhone.
+
+With our latest technology, this ProMotion display can refresh
+
+from as low as 10 hertz to as high as 120 hertz.
+
+ProMotion is designed to respond dynamically and match your content.
+
+The advanced, custom architecture produces fast frame rates when you need them,
+
+and preserves battery life when you don't.
+
+We also optimized iOS to take full advantage of this.
+
+For example, when swiping between apps or scrolling,
+
+the system adapts the frame rates
+
+to precisely match the speed of the user's finger.
+
+The result is an incredibly responsive experience that is fast and fluid.
+
+Of course, ProMotion is also great for apps,
+
+providing more responsive inputs, smoother graphics, and more precise gameplay.
+
+We brought in a few developers to see what they could do with it,
+
+and the results were amazing.
+
+Joe: Alright, let’s go. [laughs]
+
+I work on a title called Marvel: Future Revolution.
+
+Kyle: I am the Senior Design Evangelist for Adobe.
+
+I work on Adobe Fresco.
+
+Tommy: And I am the Founder and CTO of Super Evil Megacorp.
+
+Catalyst Black is really a rich and detailed world
+
+and ProMotion’s adaptive frame rate is really unique.
+
+Because of the 120 frames per second, you can get perfect response time.
+
+It’s about the refresh rate, it’s about the controls.
+
+It’s almost like your fingers are glued to the screen
+
+Kyle: A device like this changes the game for artists everywhere.
+
+With ProMotion, it means that I’m actually seeing
+
+the pixels move in real time.
+
+There is absolutely no lag.
+
+Joe: Super Retina XDR display allows
+
+the gamers to see further into the distance
+
+and catch more details and surroundings.
+
+So we have all these great characters. They need to look better than real.
+
+Tommy: The iPhone 13 Pro has
+
+one of the most powerful mobile GPUs ever created,
+
+and with that, we can really bring
+
+all these graphics features to the mobile device.
+
+Joe: I like that part.
+
+Tommy: The incredible combination of A15 Bionic, ProMotion, and 5G
+
+makes the iPhone 13 Pro the most powerful smartphone in the world,
+
+or any world, for that matter.
+
+Joz: The new Super Retina XDR display with ProMotion comes in two great sizes,
+
+6.1-inch and 6.7-inch.
+
+And the custom-designed OLED panels work across different lighting conditions
+
+and content types, maintaining incredible color accuracy and contrast.
+
+Now let's talk about the all-new iPhone 13 Pro camera system.
+
+This is our biggest camera advancement ever.
+
+To tell you more about it, here's Louis.
+
+Louis: iPhone 13 Pro and iPhone 13 Pro Max introduce an all-new camera system,
+
+starting with a new 77-millimeter telephoto camera with 3X optical zoom,
+
+a new Ultra Wide camera with auto-focus and a larger f/1.8 aperture
+
+with a 92% improvement in low light,
+
+and a new Wide camera that has a larger f/1.5 aperture
+
+and 1.9 micron pixels for our largest sensor ever,
+
+with up to 2.2 times improvement in low light.
+
+So you'll get beautiful photos in any situation.
+
+The larger sensor of the Wide offers more light gathering for less noise
+
+and faster shutter speeds and even longer brackets
+
+when shooting night mode photos with a tripod.
+
+The new 77-millimeter telephoto enables beautiful, classic portraiture photos
+
+and 3X optical zoom for photos and videos
+
+for a total 6X optical zoom range on iPhone 13 Pro.
+
+With the new Ultra Wide, low light photos are brighter and sharper
+
+with more details, like you see in her dress or on the couch.
+
+The Ultra Wide camera also enables something entirely new on iPhone,
+
+Macro Photography.
+
+Macro Photography typically uses a special lens
+
+that can focus at close distances.
+
+The new Ultra Wide lens design and auto-focus system
+
+enable incredibly sharp focus
+
+and can magnify subjects with a minimum distance of 2 centimeters.
+
+So you can get detailed close ups,
+
+like of this beautiful red daisy, the cells in this leaf,
+
+or the water droplets on this mushroom.
+
+And for the first time, all of the cameras,
+
+including the telephoto, have night mode,
+
+which is made possible by advanced computational photography.
+
+With tight integration between hardware and software,
+
+our cameras can do even more.
+
+To tell you all about it, here's Rebecca.
+
+Rebecca: When tuning the iPhone camera system,
+
+we shoot and review thousands of photos.
+
+Analyzing all of those photos allows us to deliver features,
+
+like Smart HDR 4,
+
+which automatically brings improved color,
+
+contrast, and lighting for each subject in a group photo,
+
+including for challenging shots like this.
+
+Our software in ISP adjusts for different lighting,
+
+and we've made improvements for skin tones,
+
+so everyone looks even better.
+
+We're also introducing a way to personalize your iPhone camera
+
+with Photographic Styles.
+
+This is a feature that pro photographers are going to love.
+
+Photographic Styles bring your individual preferences
+
+right into our advanced image pipeline,
+
+applying local edits like a photo editor would,
+
+but in real time as we render the photo.
+
+That means you get all the benefits of our multi-frame image processing pipeline
+
+with the ability to customize it in a way you could never achieve
+
+with a simple filter.
+
+Select from one of our four default styles before you shoot.
+
+For example, Rich Contrast for a bolder look
+
+or Vibrant for a punchier look.
+
+Each uses our deep semantic understanding
+
+to intelligently apply the right amount of adjustments
+
+to different parts of the photo while preserving skin tones.
+
+You can also customize the styles further with tone and warmth,
+
+which combine multiple attributes for a look that's all your own.
+
+Styles works across scenes and subject types.
+
+You don't need to set it every time,
+
+so you can define your style and use it across your photos.
+
+And that's Photographic Styles coming to iPhone 13 Pro,
+
+and we're excited to bring it to iPhone 13 as well.
+
+Now back to Joz.
+
+Joz: The all-new Pro camera system combined with the power
+
+of computational photography will allow users
+
+to capture beautiful images better than ever before.
+
+The new iPhone 13 Pro camera system
+
+also provides our most advanced video features.
+
+The all-new camera system, along with Dolby Vision HDR recording,
+
+produces incredible Pro-level video.
+
+So we asked two-time Academy Award winning director Kathryn Bigelow
+
+and Oscar-nominated cinematographer Greig Fraser
+
+to show us what they can do with the power of iPhone 13 Pro.
+
+Kathryn: It’s a completely integrated process now.
+
+The iPhone doesn’t require any ancillary pieces of equipment.
+
+Like, it becomes still, and she turns slowly.
+
+It’s the dawning realization.
+
+I thought it was a good challenge.
+
+You know, these are all genres I love.
+
+And it’s so great to kind of parachute in, do a deep dive with the iPhone.
+
+And with so much accessibility, I think all pretension tends to disappear.
+
+And so it makes the set and the filming process much less apprehensive.
+
+Greig: There was no limitations to what I could do with this particular camera.
+
+Whereas normally, everybody gets so precious about a camera lens.
+
+It’s so expensive or it’s so--it’s so fragile.
+
+One of the things that the iPhone couldn’t do up until now
+
+was to create an idea of depth from a lens.
+
+With Cinematic mode, what’s exciting is, we can actually choose focus later.
+
+To me, that’s really bringing it up to the professional film cameras.
+
+We can actually go ahead and make these stories
+
+and make these films using the tools on this iPhone.
+
+I believe that with the advent and with the addition of Cinematic mode,
+
+we’re going to very, very soon see filmmakers make films
+
+in a different way, which is exciting.
+
+Kathryn: It might even birth a brand-new genre.
+
+Greig: I have no doubt it will.
+
+Just given the size and given the ability to move this camera.
+
+Kathryn: Exactly.
+
+Greig: It will change the language of cinema in a very positive way.
+
+Joz: Everything you just saw, including the behind the scenes footage,
+
+was shot on iPhone 13 Pro.
+
+With major updates across the Wide, Ultra Wide, and Telephoto cameras,
+
+it's an incredible device for filmmaking.
+
+The new Ultra Wide camera enables amazing macro slo-mo videos
+
+thanks to the new lens design.
+
+And the new 3X telephoto allows you to zoom even closer to the action
+
+and offers a great new focal length for video.
+
+This is really awesome when using our all-new Cinematic mode,
+
+which uses machine learning and disparity to create a depth map
+
+that's built into the video.
+
+So you can change the depth effect, including the level of bokeh
+
+and where the focus is applied, even after the capture.
+
+This is another iPhone first,
+
+as iPhone 13 and iPhone 13 Pro are the only smartphones that can do this.
+
+We also have another Pro video feature coming later this year,
+
+and that's ProRes video.
+
+ProRes video offers exceptionally high color fidelity
+
+and more efficient encoding for use in pro video editing apps like Final Cut Pro.
+
+That's why it's widely used by video editors as the final delivery format
+
+for commercials, feature films, and broadcast.
+
+A15 Bionic adds hardware acceleration for ProRes.
+
+And in combination with our advanced video encoders and decoders,
+
+as well as our faster file system and flash storage pipeline,
+
+you can now record up to 4K at 30 frames per second in ProRes
+
+right in the Camera app.
+
+iPhone 13 Pro is the only smartphone to provide an end-to-end pro workflow,
+
+allowing you to record and edit in ProRes or Dolby Vision.
+
+This will transform filmmaking
+
+with a device that can simply slip into your pocket.
+
+Next, let's talk about battery life.
+
+This is our most Pro iPhone ever with our fastest performance,
+
+most advanced display,
+
+and most powerful camera system ever in an iPhone.
+
+Thanks to the efficiency of the A15 Bionic and iOS 15,
+
+as well a larger battery,
+
+iPhone 13 Pro delivers incredible all-day battery life.
+
+iPhone 13 Pro lasts more than one and a half hours longer
+
+in your day than iPhone 12 Pro.
+
+And the iPhone 13 Pro Max will last more than two and a half hours longer
+
+than the iPhone 12 Pro Max.
+
+That means iPhone 13 Pro Max has the longest battery life
+
+ever in an iPhone.
+
+The entire iPhone 13 lineup has been carefully designed
+
+to minimize its impact on the environment.
+
+We redesigned the packaging to eliminate the outer plastic wrap,
+
+saving 600 metric tons of plastic.
+
+This brings us closer to our goal of completely removing plastic
+
+from all of our packaging.
+
+iPhone uses 100% recycled rare Earth elements in magnets
+
+and 100% recycled tin in the solder of the main logic board.
+
+So that's iPhone 13 Pro with our most advanced technologies:
+
+an all-new camera system with three new cameras,
+
+ProRes video, Cinematic mode,
+
+the new Super Retina XDR display with ProMotion,
+
+A15 Bionic with 5-core GPU,
+
+5G, MagSafe,
+
+and incredible durability features.
+
+These iPhones push the boundaries for what's possible in a smartphone.
+
+Even with all this incredible technology,
+
+iPhone 13 Pro still starts at $999.
+
+And iPhone 13 Pro Max still starts at $1,099.
+
+We also have amazing offers from Apple and our partners,
+
+including up to $1,000 off in the U.S. when you trade in a qualifying iPhone.
+
+And this year, we're introducing a new 1-terabyte storage option.
+
+This is a great addition for our Pro iPhone users.
+
+The 1-terabyte joins our 128-, 256-, and 512-gigabyte storage options.
+
+You can pre-order all four new models of iPhone 13 family this Friday,
+
+September 17th,
+
+and they will be available on September 24th.
+
+So here's our new iPhone lineup,
+
+including iPhone 12,
+
+iPhone 11, and iPhone SE,
+
+starting at just $399.
+
+Now back to Tim.
+
+
+
+Tim: Thank you, Joz, and thank you to all of today's presenters.
+
+What a spectacular set of announcements.
+
+Our most popular iPad is now powered by the A13 Bionic
+
+with a new 12-megapixel Ultra Wide front camera with Center Stage.
+
+This is a big upgrade.
+
+iPad mini gets a completely new all-screen design
+
+with a brilliant Liquid Retina Display,
+
+blazing fast performance with the new A15 Bionic chip,
+
+new cameras with Center Stage, and all new colors.
+
+This is the mightiest iPad mini yet.
+
+The new Apple Watch Series 7 has our largest and most advanced display,
+
+optimized UI, new Watch faces, and it's our most durable ever.
+
+It's the best smartwatch in the world.
+
+An update to Apple Fitness+, adding Pilates and guided meditation,
+
+a new workout to get you ready for snow season,
+
+as well as Group Workouts to help keep you motivated.
+
+And iPhone 13 with fantastic new technologies,
+
+including our most advanced dual camera system
+
+with Cinematic mode, A15 Bionic,
+
+5G, brighter Super Retina XDR display,
+
+and longer all-day battery life.
+
+iPhone 13 Pro with our most state-of-the-art technologies
+
+for those who want the most out of their iPhone.
+
+With our biggest camera system advancement yet
+
+including Cinematic mode and ProRes video,
+
+the Super Retina XDR display with ProMotion,
+
+A15 Bionic with 5-core GPU,
+
+5G, and industry-leading durability.
+
+These are the best iPhones we've ever created.
+
+Here at Apple, the customer is at the center of everything we do.
+
+And we continue to innovate,
+
+designing the very best products and services to enrich people's lives
+
+and to empower them to do great things every day.
+
+Thank you for joining us.
+
+Stay safe and take care.
+
+
