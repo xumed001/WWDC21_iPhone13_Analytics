@@ -25,3 +25,13 @@ For feature engineering part a little bit of `regular expression` was used to fi
   -	twint
   -	wordcloud
   -	vaderSentiment
+
+## Credits
+This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+
+twint:  https://github.com/twintproject/twint <br/> Copyright (c) 2018 Cody Zacharias <br/> License (MIT) https://github.com/twintproject/twint/blob/master/LICENSE
+
+WordCloud: https://github.com/amueller/word_cloud <br/> Copyright (c) 2012 Andreas Christian Mueller <br/> License (MIT) https://github.com/amueller/word_cloud/blob/master/LICENSE
+
+vaderSentiment: https://github.com/cjhutto/vaderSentiment <br/> Copyright (c) 2016 C.J. Hutto <br/> License (MIT) https://github.com/cjhutto/vaderSentiment/blob/master/LICENSE.txt
+
